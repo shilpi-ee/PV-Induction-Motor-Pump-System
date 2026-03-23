@@ -27,6 +27,11 @@ PV Array → Boost Converter → DC Link → Inverter → Induction Motor → Pu
 
 ---
 
+## 📷 Model Structure
+![PV System Model](Model_Structure.png)
+
+---
+
 ## 🛠️ Tools & Technologies
 
 * MATLAB Simulink
@@ -63,7 +68,6 @@ PV Array → Boost Converter → DC Link → Inverter → Induction Motor → Pu
 
 ## 👨‍💻 Author
 
-Shilpi
-B.Tech Electrical Engineering
+Shilpi (Electrical Engineering)
 
 ---
