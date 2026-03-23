@@ -28,7 +28,7 @@ PV Array → Boost Converter → DC Link → Inverter → Induction Motor → Pu
 ---
 
 ## 📷 Model Structure
-![PV System Model](Model_Structure.png)
+![PV System Model](Model_Structure/Model_Structure.png)
 
 ---
 
